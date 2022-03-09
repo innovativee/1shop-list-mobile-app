@@ -1,8 +1,6 @@
-# React Native Shopping List App
+# Mobile based Shopping List App
 
-> App for React Native crash course on YouTube
-
-## Quick Start
+## How to Start
 
 ``` bash
 # Install dependencies
